@@ -19,6 +19,7 @@ Abaixo temos uma lista de pessoas que participaram deste projeto ao longo dos an
 |            E-mail        |        Nome         |               Função            |
 |                          |                     |                                 |
 | williamrego203@gmail.com | William Xavier Rego | Project Management Office - PMO |
+| crisfaria@leandrofaria.com|   Cristina Faria   | Scrum master                    |
 
 
 # Kit Cursos/Treinamentos
